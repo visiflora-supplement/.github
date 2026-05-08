@@ -1,12 +1,12 @@
 # VisiFlora Supplement Information Hub
 
-VisiFlora is a probiotic dietary supplement formulated to support gut health and eye wellness through the connection between digestive balance, microbiome function, and overall body health.
+VisiFlora is a dietary supplement formulated to suppor eye wellness and eye health through the connection between digestive balance, microbiome function, and overall body health.
 
 This page provides a structured and educational overview of VisiFlora, including how it works, its ingredients, related research, and how to access official product information safely.
 
 ---
 
-## VisiFlora Official Overview
+## VisiFlora Overview
 
 VisiFlora is designed as a daily wellness supplement that combines probiotic strains with plant-based ingredients commonly used in digestive and nutritional support formulations.
 
@@ -52,8 +52,6 @@ Emerging discussions in research also explore how gut health may influence other
 
 VisiFlora is designed to support these biological processes through probiotic supplementation and nutritional support.
 
-Learn more about this concept:  
-👉 https://visiflora-vision.com/blog/visiflora-gut-eye-connection-explained.html
 
 ---
 
@@ -95,9 +93,6 @@ Ingredients commonly used in probiotic and plant-based supplements have been stu
 
 Scientific research in these areas helps explain why probiotics and nutritional compounds are often included in modern wellness formulations.
 
-Read the detailed research discussion:  
-👉 https://visiflora-vision.com/blog/visiflora-ingredients-clinical-research.html
-
 ---
 
 ## Gut–Eye Connection Explained
@@ -111,17 +106,6 @@ Current research discussions explore how:
 - Internal health may contribute to overall body function, including visual comfort  
 
 While research is still evolving, this concept is increasingly discussed in the context of whole-body wellness.
-
-Learn more:  
-👉 https://visiflora-vision.com/blog/visiflora-gut-eye-connection-explained.html
-
----
-
-## Scientific References & Sources
-
-For transparency and educational purposes, supporting references and external sources related to probiotics, nutrition, and wellness research are available here:
-
-👉 https://visiflora-vision.com/references.html
 
 ---
 
@@ -155,15 +139,6 @@ https://visiflora-vision.com/
 
 - Ingredients and formulation:  
 https://visiflora-vision.com/ingredients.html  
-
-- Gut–eye connection research:  
-https://visiflora-vision.com/blog/visiflora-gut-eye-connection-explained.html  
-
-- Ingredient research:  
-https://visiflora-vision.com/blog/visiflora-ingredients-clinical-research.html  
-
-- References and sources:  
-https://visiflora-vision.com/references.html  
 
 ---
 
