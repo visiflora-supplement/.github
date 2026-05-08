@@ -1,8 +1,6 @@
 # VisiFlora Supplement Information Hub
 
-VisiFlora is a dietary supplement formulated to suppor eye wellness and eye health through the connection between digestive balance, microbiome function, and overall body health.
-
-This page provides a structured and educational overview of VisiFlora, including how it works, its ingredients, related research, and how to access official product information safely.
+VisiFlora is a dietary supplement designed to support eye health and visual clarity by combining targeted nutrients with a unique focus on the gut–eye connection. Its formula aims to promote macular wellness, reduce digital eye strain, and support overall visual performance through antioxidant and microbiome-support ingredients.
 
 ---
 
